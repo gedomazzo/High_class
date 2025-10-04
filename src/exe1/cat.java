@@ -6,6 +6,6 @@ public class cat extends Animal {
     }
 
     private void move() {
-        System.out.println("lazily moving its paws");
+        System.out.println("lazily moving its paws on land");
     }
 }
