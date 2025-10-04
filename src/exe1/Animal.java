@@ -1,13 +1,12 @@
 package exe1;
 
 public class Animal {
-
-    private String makeSound() {
-        return null;
+    private void makeSound() {
+        System.out.println("zzzzz");
     }
 
-    private String move() {
-        return null;
+    private void move() {
+        System.out.println("moving");
     }
 
 
