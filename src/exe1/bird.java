@@ -7,4 +7,10 @@ public class bird {
 
     private void move() {
         System.out.println("ITS FLIYING in the air");
-    }}
+    }
+
+    private void eat(){
+        System.out.println("worms");
+    }
+
+}

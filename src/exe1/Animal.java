@@ -10,4 +10,10 @@ public class Animal {
     }
 
 
+    private void eat(){
+        System.out.println("food");
+    }
+
+
+
 }

@@ -8,4 +8,8 @@ public class dog extends Animal {
     private void move() {
         System.out.println("running happily on land");
     }
+
+    private void eat(){
+        System.out.println("bones");
+    }
 }
